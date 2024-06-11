@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name" translatable="false">BuddyBook</string>
+    <string name="birthday">Birthday</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="occupation">Occupation</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="likes">Likes</string>
+    <string name="dislikes">Dislikes</string>
+    <string name="notes">Notes</string>
+    <string name="edit_or_delete_this_friend">Edit or Delete this Friend</string>
+    <string name="edit_this_friend">Edit this Friend</string>
+    <string name="delete_this_friend">Delete this Friend</string>
+    <string name="first_name">First Name*</string>
+    <string name="last_name">Last Name</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="contact_data">Contact Data</string>
+    <string name="personal_notes">Personal Notes</string>
+    <string name="this_friend_likes">This friend likes...</string>
+    <string name="this_friend_dislikes">This friend dislikes...</string>
+    <string name="save_changes">Save changes</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="add_new_friend">Add new friend</string>
+    <string name="version_number" translatable="false">Version 0.1.0</string>
+    <string name="developer">Developer</string>
+    <string name="licence">Licence</string>
+    <string name="welcome_title">Welcome!</string>
+    <string name="welcome_text">BuddyBook is a simple tool to help you manage your friendships.</string>
+    <string name="button_get_started">Get started</string>
+    <string name="address">Address</string>
+    <string name="title_edit_friend">Edit Friend</string>
+    <string name="about">About</string>
+    <string name="title_show_friend">Friend Profile</string>
+    <string name="dialogue_title_delete">Delete Friend</string>
+    <string name="dialogue_text_delete">Do you really want to delete this friend from BuddyBook?</string>
+    <string name="dialogue_button_delete">Delete</string>
+    <string name="dialogue_button_cancel">Cancel</string>
+    <string name="dialogue_title_cancel_edit">Cancel</string>
+    <string name="dialogue_text_cancel_edit">Do you really want to return? Your edits will not be saved.</string>
+    <string name="dialogue_button_stay">Stay</string>
+    <string name="dialogue_button_discard">Discard</string>
+    <string name="dialogue_title_firstname">First name is missing</string>
+    <string name="dialogue_text_firstname">Please insert a first name.</string>
+    <string name="dialogue_button_ok">OK</string>
+    <string name="change">Change</string>
+    <string name="remove">Remove</string>
+
+</resources>
